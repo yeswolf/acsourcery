@@ -1,0 +1,59 @@
+<TaskOptions>
+  <TaskOptions>
+    <option name="arguments" value="--sources &quot;$ProjectFileDir$&quot; --templates &quot;$ProjectFileDir$/Templates&quot; --output &quot;$ProjectFileDir$/CodeGenerated&quot;" />
+    <option name="checkSyntaxErrors" value="true" />
+    <option name="description" />
+    <option name="exitCodeBehavior" value="NEVER" />
+    <option name="fileExtension" value="Sourcery Stencil templates" />
+    <option name="immediateSync" value="true" />
+    <option name="name" value="Sourcery Stencil watcher" />
+    <option name="output" value="$ProjectFileDir$/CodeGenerated" />
+    <option name="outputFilters">
+      <array />
+    </option>
+    <option name="outputFromStdout" value="false" />
+    <option name="program" value="/Applications/Sourcery/bin/sourcery" />
+    <option name="scopeName" value="All Places" />
+    <option name="trackOnlyRoot" value="false" />
+    <option name="workingDir" value="$ProjectFileDir$" />
+    <envs />
+  </TaskOptions>
+  <TaskOptions>
+    <option name="arguments" value="--sources &quot;$ProjectFileDir$&quot; --templates &quot;$ProjectFileDir$/Templates&quot; --output &quot;$ProjectFileDir$/CodeGenerated&quot;" />
+    <option name="checkSyntaxErrors" value="true" />
+    <option name="description" />
+    <option name="exitCodeBehavior" value="NEVER" />
+    <option name="fileExtension" value="Sourcery EJS and Swift templates" />
+    <option name="immediateSync" value="true" />
+    <option name="name" value="Sourcery EJS and Swift watcher" />
+    <option name="output" value="$ProjectFileDir$/CodeGenerated" />
+    <option name="outputFilters">
+      <array />
+    </option>
+    <option name="outputFromStdout" value="false" />
+    <option name="program" value="/Applications/Sourcery/bin/sourcery" />
+    <option name="scopeName" value="All Places" />
+    <option name="trackOnlyRoot" value="false" />
+    <option name="workingDir" value="$ProjectFileDir$" />
+    <envs />
+  </TaskOptions>
+  <TaskOptions>
+    <option name="arguments" value="--sources &quot;$ProjectFileDir$&quot; --templates &quot;$ProjectFileDir$/Templates&quot; --output &quot;$ProjectFileDir$/CodeGenerated&quot;" />
+    <option name="checkSyntaxErrors" value="true" />
+    <option name="description" />
+    <option name="exitCodeBehavior" value="NEVER" />
+    <option name="fileExtension" value="swift" />
+    <option name="immediateSync" value="true" />
+    <option name="name" value="Sourcery Swift watcher" />
+    <option name="output" value="$ProjectFileDir$/CodeGenerated" />
+    <option name="outputFilters">
+      <array />
+    </option>
+    <option name="outputFromStdout" value="false" />
+    <option name="program" value="/Applications/Sourcery/bin/sourcery" />
+    <option name="scopeName" value="All Places" />
+    <option name="trackOnlyRoot" value="false" />
+    <option name="workingDir" value="" />
+    <envs />
+  </TaskOptions>
+</TaskOptions>

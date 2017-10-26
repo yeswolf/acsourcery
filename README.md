@@ -1,0 +1,1 @@
+# Materials for the [Sourcery](https://github.com/krzysztofzablocki/Sourcery/) setup in [AppCode](https://www.jetbrains.com/objc/)
